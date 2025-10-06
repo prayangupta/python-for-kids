@@ -5,3 +5,5 @@ https://nostarch.com/python-kids-2nd-edition
 https://jasonrbriggs.com/python-for-kids-2/  
 
 ![cover](cover.jpg)
+
+THis is Prayan's copy
